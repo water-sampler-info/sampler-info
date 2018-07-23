@@ -1,13 +1,13 @@
 # sampler-info
 
-## Connector part numbers & types for ISCO water samplers:
+## Cable connector part numbers & types for Teledyne ISCO water samplers:
 * Battery 2-pin: Amphenol 97-3106A-10SL-4S
 * Printer/Computer 6-pin: Amphenol MS3106A14S-6P (available from other mfgs as well)
 * Flow meter/pulse 6-pin: Amphenol MS3106A14S-6S
 
 (Wiring information on pg. 4-4 of ISCO 3700 manual, search for it)
 
-### Rain gauge adapter cable
+### Rain gauge adapter cable part numbers
 * 4-pin connector: Amphenol 97-3106A-14S-2P
   * This plugs into the 9-pin port but only uses two pins
   * Red wire goes to pin A
